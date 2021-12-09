@@ -60,7 +60,7 @@ content {
 }
 
 .flex-container {
-    display: flex;
+    display: flexbox;
     justify-content: center;
     max-width: 1200px;
     background-color: black;
