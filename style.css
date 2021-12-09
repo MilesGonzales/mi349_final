@@ -63,3 +63,8 @@ content {
     display: flex;
     justify-content: space-between;
 }
+
+.flex-container img {
+    width: 400px;
+    height: 400px;
+}
