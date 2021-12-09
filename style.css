@@ -56,13 +56,13 @@ content {
 .aboutList li {
     display: inline-block;
     text-decoration: none;
-    max-width: 1200px;
 
 }
 
 .aboutContainer {
     justify-content: center;
     background-color: black;
+    max-width: 1200px;
 }
 
 .aboutContainer div {
