@@ -29,7 +29,8 @@ h1 {
 }
 
 .navButtonList li {
-    padding: 35px;
+    margin: 20px;
+    padding: 20px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
