@@ -78,6 +78,10 @@ content {
     margin: auto;
 }
 
+.aboutContainer div p {
+    font-size: 20px;
+}
+
 .aboutContainer img {
     width: 400px;
     height: 400px;
