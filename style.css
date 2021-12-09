@@ -60,7 +60,7 @@ content {
 }
 
 .aboutContainer {
-    position: center;
+    margin: auto;
     background-color: black;
     max-width: 1200px;
 }
