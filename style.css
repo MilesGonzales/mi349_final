@@ -84,3 +84,8 @@ h1 {
 .centerText {
     text-align: center;
 }
+
+.button {
+    color: #F3EAC0;
+    text-decoration: none;
+}
