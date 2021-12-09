@@ -47,9 +47,19 @@ content {
 }
 
 .aboutList {
-    margin: 35px;
+    margin: 0;
+    padding: 0;
     text-align: center;
-    text-decoration: none;
-    display: inline-block;
+    list-style-type: none;
+}
 
+.aboutList li {
+    display: inline-block;
+    text-decoration: none;
+    margin: 400px;
+
+}
+
+image {
+    width: 400px;
 }
