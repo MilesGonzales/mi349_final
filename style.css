@@ -64,7 +64,7 @@ content {
     margin: auto;
     background-color: black;
     max-width: 1200px;
-    column-gap: 30px;
+    column-gap: 100px;
 }
 
 .aboutContainer div {
