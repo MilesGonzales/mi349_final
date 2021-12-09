@@ -1,5 +1,11 @@
+html {
+    background-color: white;
+}
+
 body {
     font-family: 'Roboto', sans-serif;
+    margin: 40px;
+    padding: 40px;
     background-color:#1E2640;
     color: #F3EAC0;
 }
