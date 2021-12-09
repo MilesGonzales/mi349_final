@@ -37,3 +37,10 @@ h1 {
     border-radius: 20px;
     padding: 5px;
 }
+
+content {
+    max-width: 1200px;
+    position: center;
+    background-color: #fff;
+    
+}
