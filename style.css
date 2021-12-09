@@ -3,6 +3,10 @@ body {
     background-color:#1E2640;
 }
 
+text {
+    color: #F3EAC0;
+}
+
 header {
     position: center;
     background-color: #922C40;
