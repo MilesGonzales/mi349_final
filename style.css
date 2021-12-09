@@ -58,7 +58,7 @@ h1 {
 
 }
 
-.aboutContainer {
+.Container {
     padding: 40px;
     display: flex;
     margin: auto;
@@ -66,16 +66,16 @@ h1 {
     column-gap: 200px;
 }
 
-.aboutContainer div {
+.Container div {
     margin: auto;
     font-size: 20px;
 }
 
-.aboutContainer div p {
+.Container div p {
     font-size: 20px;
 }
 
-.aboutContainer img {
+.Container img {
     width: 400px;
     height: 400px;
     border-radius: 15%;
