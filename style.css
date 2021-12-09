@@ -45,3 +45,11 @@ content {
     text-align: center;
 
 }
+
+.aboutList {
+    margin: 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+}
