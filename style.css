@@ -6,7 +6,7 @@ body {
 
 header {
     position: center;
-    padding: 20px;
+    margin: 20px;
     background-color: #922C40;
     border: 2px solid #000000;
     box-sizing: border-box;
