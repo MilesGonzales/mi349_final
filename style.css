@@ -58,3 +58,8 @@ content {
     text-decoration: none;
 
 }
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+}
