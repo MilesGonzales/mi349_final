@@ -56,11 +56,10 @@ content {
 .aboutList li {
     display: inline-block;
     text-decoration: none;
-    margin: 400px;
 
 }
 
 image {
-    width: 400px;
-    height: 400px;
+    width: 200px;
+    height: 200px;
 }
