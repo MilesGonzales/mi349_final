@@ -60,7 +60,7 @@ content {
 }
 
 .aboutContainer {
-    justify-content: center;
+    position: center;
     background-color: black;
     max-width: 1200px;
 }
