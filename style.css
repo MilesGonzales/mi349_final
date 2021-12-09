@@ -61,7 +61,7 @@ content {
 
 .flex-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     max-width: 1200px;
     align-items: center;
 }
