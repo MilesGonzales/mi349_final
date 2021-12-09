@@ -59,17 +59,16 @@ content {
 
 }
 
-.flex-container {
-    display: flex;
+.aboutContainer {
     justify-content: center;
     background-color: black;
 }
 
-.flex-container div {
+.aboutContainer div {
     margin: auto;
 }
 
-.flex-container img {
+.aboutContainer img {
     width: 400px;
     height: 400px;
 }
