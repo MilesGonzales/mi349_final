@@ -65,11 +65,11 @@ content {
     background-color: black;
 }
 
+.flex-container div {
+    margin: auto;
+}
+
 .flex-container img {
     width: 400px;
     height: 400px;
-}
-
-.content {
-    position: center;
 }
