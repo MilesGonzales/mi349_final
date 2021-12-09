@@ -64,8 +64,8 @@ content {
     display: flex;
     margin: auto;
     background-color: black;
-    max-width: 1200px;
-    column-gap: 300px;
+    max-width: 1160px;
+    column-gap: 200px;
 }
 
 .aboutContainer div {
