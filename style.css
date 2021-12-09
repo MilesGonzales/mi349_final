@@ -64,6 +64,7 @@ content {
     justify-content: center;
     max-width: 1200px;
     align-items: center;
+    background-color: black;
 }
 
 .flex-container img {
