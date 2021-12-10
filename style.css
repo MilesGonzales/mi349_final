@@ -98,3 +98,13 @@ h1 {
 .button :focus {
     outline: none;
 }
+
+.gameDesign button {
+    margin: 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    background-color: #DC9750;
+    border-radius: 20px;
+    padding: 5px;
+}
