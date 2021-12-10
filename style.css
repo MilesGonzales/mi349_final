@@ -99,7 +99,7 @@ h1 {
     outline: none;
 }
 
-.gameDesign button {
+.gameDesign .button {
     margin: 35px;
     text-align: center;
     text-decoration: none;
