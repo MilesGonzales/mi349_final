@@ -103,6 +103,7 @@ h1 {
     text-align: center;
 }
 .gameDesign .button {
+    font-size: large;
     margin: 35px;
     text-decoration: none;
     display: inline-block;
