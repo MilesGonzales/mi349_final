@@ -119,6 +119,10 @@ h1 {
     text-align: center;
 }
 
+.gameDesignImages li{
+    display: block;
+}
+
 .gameDesignImages img {
     width: auto;
     height: 200px;
