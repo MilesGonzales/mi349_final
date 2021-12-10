@@ -122,4 +122,5 @@ h1 {
 .gameDesignImages img {
     width: auto;
     height: 300px;
+    display: inline-block;
 }
