@@ -117,8 +117,6 @@ h1 {
     margin: 0;
     padding: 0;
     text-align: center;
-    width: 50%;
-    display: inline-block;
 }
 
 .gameDesignImages li{
@@ -126,9 +124,9 @@ h1 {
 }
 
 .gameDesignImages img {
-    width: 500px;
+    width: 50%;
     height: auto;
-    margin: 0 auto;
+    display: inline-block;
 
 }
 
@@ -136,4 +134,5 @@ h1 {
     text-align: center;
     max-width: 75%;
     margin: 0 auto;
+
 }
