@@ -112,3 +112,14 @@ h1 {
     padding: 5px;
 }
 
+.gameDesignImages {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.gameDesignImages img {
+    width: auto;
+    height: 300px;
+}
